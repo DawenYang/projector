@@ -1,0 +1,1 @@
+import getOpts from "./opts";
